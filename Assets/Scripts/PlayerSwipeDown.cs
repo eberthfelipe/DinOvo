@@ -92,7 +92,7 @@ public class PlayerSwipeDown : MonoBehaviour {
 //				+ vertical, transform.position.z);
 		Debug.Log ("x:"+transform.position.x);
 		Debug.Log ("y:"+transform.position.y);
-		Debug.Log ("z:"+transform.position.z);
+//		Debug.Log ("z:"+transform.position.z);
 	}
 
 
