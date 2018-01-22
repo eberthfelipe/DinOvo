@@ -6,6 +6,7 @@ TagManager:
   tags:
   - jump
   - restart
+  - score
   layers:
   - Default
   - TransparentFX
